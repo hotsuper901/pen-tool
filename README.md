@@ -85,13 +85,13 @@ python pentest.py <target> [options]
 ### Examples
 
 ```bash
-python pentest.py scanme.nmap.org --scan --ports 22,80,443
-python pentest.py example.com --dns --brute --zone
-python pentest.py example.com --http --ssl --methods
-python pentest.py example.com --dirbust --ext .php,.asp --port 80
-python pentest.py 192.168.1.0/24 --recon --ping
-python pentest.py scanme.nmap.org --all
-python pentest.py example.com --recon --geo --whois --trace
+python3 pentest.py scanme.nmap.org --scan --ports 22,80,443
+python3 pentest.py example.com --dns --brute --zone
+python3 pentest.py example.com --http --ssl --methods
+python3 pentest.py example.com --dirbust --ext .php,.asp --port 80
+python3 pentest.py 192.168.1.0/24 --recon --ping
+python3 pentest.py scanme.nmap.org --all
+python3 pentest.py example.com --recon --geo --whois --trace
 ```
 
 ## Modules
