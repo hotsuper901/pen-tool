@@ -46,7 +46,7 @@ python3 pentest.py 192.168.1.1 --all
 ### Interactive Mode
 
 ```
-python pentest.py
+python3 pentest.py
 ```
 
 Launches a menu-driven HUD interface. Navigate with arrow keys or number input, enter target, configure options.
@@ -54,7 +54,7 @@ Launches a menu-driven HUD interface. Navigate with arrow keys or number input, 
 ### CLI Mode
 
 ```
-python pentest.py <target> [options]
+python3 pentest.py <target> [options]
 ```
 
 | Flag | Description |
