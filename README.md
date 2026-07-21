@@ -26,9 +26,8 @@ Educational security testing framework with full RGB color UI. Created by **M.S.
 ```bash
 git clone https://github.com/hotsuper901/pen-tool.git
 cd pen-tool
-python3 -m venv venv
-source venv/bin/activate
 pip install -r requirements.txt
+python3 pentest.py
 ```
 
 ### Usage
