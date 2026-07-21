@@ -24,7 +24,7 @@ Educational security testing framework with full RGB color UI. Created by **M.S.
 
 ### Guided Installation
 ```bash
-git clone https://github.com/anomalyco/pen-tool.git
+git clone https://github.com/hotsuper901/pen-tool.git
 cd pen-tool
 python3 -m venv venv
 source venv/bin/activate
