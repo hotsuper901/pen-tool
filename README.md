@@ -33,12 +33,12 @@ python3 pentest.py
 ### Usage
 ```bash
 # Interactive HUD menu
-python pentest.py
+python3 pentest.py
 
 # CLI mode
-python pentest.py scanme.nmap.org --scan
-python pentest.py example.com --dns --brute
-python pentest.py 192.168.1.1 --all
+python3 pentest.py scanme.nmap.org --scan
+python3 pentest.py example.com --dns --brute
+python3 pentest.py 192.168.1.1 --all
 ```
 
 ## Usage
