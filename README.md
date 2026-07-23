@@ -154,6 +154,3 @@ python3 pentest.py example.com --recon --geo --whois --trace
 
 For authorized testing and educational purposes only.
 
-## Donate Me
-https://sociabuzz.com/msj971
-
