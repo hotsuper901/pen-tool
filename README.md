@@ -153,4 +153,7 @@ python3 pentest.py example.com --recon --geo --whois --trace
 ## License
 
 For authorized testing and educational purposes only.
-# pen-tool
+
+## Donate Me
+https://sociabuzz.com/msj971
+
